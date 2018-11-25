@@ -1,2 +1,3 @@
-# ta-indicators
+# TA Indicators
+
 Technical analysis indicators.
